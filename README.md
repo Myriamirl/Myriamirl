@@ -12,13 +12,15 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📌 Contributions & Projets:
+# 📊 Derniers commits:
 
-| Projet / Dépôt | Rôle / Contributions | Stack | Statut |
-| :--- | :--- | :--- | :--- |
-| **[Nom-du-projet-1](https://github.com/Myriamirl/nom-du-projet-1)** | Développement front & logique applicative | HTML, CSS, JavaScript | En cours |
-| **[Nom-du-projet-2](https://github.com/Myriamirl/nom-du-projet-2)** | Création du backend et modélisation BDD | PHP, MySQL / MariaDB | Terminé |
-| **[Nom-du-projet-3](https://github.com/Myriamirl/nom-du-projet-3)** | Maquettage UI/UX et intégration | Figma, HTML, CSS | En cours |
+<!-- RECENT_COMMITS:START -->
+| Dépôt | Commit | Date |
+| :--- | :--- | :--- |
+| **[Myriamirl/mon-projet](https://github.com/Myriamirl/mon-projet)** | `feat: ajout du formulaire de contact` | *26/11/2026* |
+| **[Myriamirl/autre-projet](https://github.com/Myriamirl/autre-projet)** | `fix: correction requête SQL` | *24/11/2026* |
+| **[Myriamirl/portfolio](https://github.com/Myriamirl/portfolio)** | `style: ajustement responsive mobile` | *21/11/2026* |
+<!-- RECENT_COMMITS:END -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Myriamirl&icon=2&color=0)](https://visitcount.itsvg.in)
