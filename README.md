@@ -1,28 +1,40 @@
-# 💫 About Me:
-👋 Salut, je suis @Myriamirl<br>
-👀 Je suis étudiante à ESEO en Bachelor informatique et intelligence artificielle<br>
-🌱 Entre deux cafés, j'apprends le JAVASCRIPT et le PHP<br>
-💞️ Je recherche une alternance dans l'IT<br>
-📫 Vous pouvez me contacter sur LinkedIn<br>
-⚡ Fait amusant : j'adore la pop culture
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mmtlb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgiane-taleb-21472b276)
+# Salut 👋, je suis **Myriamirl** !
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Étudiante à l'ESEO en Bachelor Informatique & Intelligence Artificielle • En recherche d'alternance IT**
 
-# 📊 Derniers commits:
+[![Profile views](https://visitcount.itsvg.in/api?id=Myriamirl&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- RECENT_COMMITS:START -->
-| Dépôt | Commit | Date |
-| :--- | :--- | :--- |
-| **[Myriamirl/mon-projet](https://github.com/Myriamirl/mon-projet)** | `feat: ajout du formulaire de contact` | *26/11/2026* |
-| **[Myriamirl/autre-projet](https://github.com/Myriamirl/autre-projet)** | `fix: correction requête SQL` | *24/11/2026* |
-| **[Myriamirl/portfolio](https://github.com/Myriamirl/portfolio)** | `style: ajustement responsive mobile` | *21/11/2026* |
-<!-- RECENT_COMMITS:END -->
+</div>
+
+- 🎓 Actuellement étudiante à l'**ESEO** en Bachelor Informatique et Intelligence Artificielle
+- 🌱 Entre deux cafés, j'apprends le **JavaScript** et le **PHP**
+- 💞️ Je recherche une **alternance dans l'IT**
+- ⚡ Fait amusant : j'adore la **pop culture**
+- 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/morgiane-taleb-21472b276) • [Discord](https://discord.gg/mmtlb)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Myriamirl&icon=2&color=0)](https://visitcount.itsvg.in)
+
+### 📊 Contributions
+
+<!-- Si tu génères un SVG de contributions via GitHub Actions (ex: contrib-snake / contribution-graph), place-le ici : -->
+<!-- ![GitHub Contributions](./profile-3d-contrib/profile-green-animate.svg) -->
+
+| Période | Activité principale | Focus |
+| :--- | :--- | :--- |
+| **Récent** | Développement & apprentissage continu | JavaScript, PHP, bases de données |
+| **Projets** | Interfaces web & structuration de code | HTML5, CSS3, Git / GitHub |
+| **Design** | Maquettes & identité visuelle | Figma, Canva |
+
+---
+
+### 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mmtlb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgiane-taleb-21472b276)
+
+### 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
