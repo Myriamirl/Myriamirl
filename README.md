@@ -18,8 +18,11 @@
 
 ### 📊 Contributions
 
-<!-- Si tu génères un SVG de contributions via GitHub Actions (ex: contrib-snake / contribution-graph), place-le ici : -->
-<!-- ![GitHub Contributions](./profile-3d-contrib/profile-green-animate.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myriamirl/Myriamirl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myriamirl/Myriamirl/output/github-contribution-grid-snake.svg">
+  <img alt="Grille de contributions GitHub" src="https://raw.githubusercontent.com/Myriamirl/Myriamirl/output/github-contribution-grid-snake.svg">
+</picture>
 
 | Période | Activité principale | Focus |
 | :--- | :--- | :--- |
@@ -28,12 +31,6 @@
 | **Design** | Maquettes & identité visuelle | Figma, Canva |
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myriamirl/Myriamirl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myriamirl/Myriamirl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Myriamirl/Myriamirl/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### 🌐 Socials
 
