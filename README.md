@@ -4,8 +4,6 @@
 
 **Étudiante à l'ESEO en Bachelor Informatique & Intelligence Artificielle • En recherche d'alternance IT**
 
-[![Profile views](https://visitcount.itsvg.in/api?id=Myriamirl&icon=2&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
 - 🎓 Actuellement étudiante à l'**ESEO** en Bachelor Informatique et Intelligence Artificielle
